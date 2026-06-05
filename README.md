@@ -9,8 +9,7 @@ AI-powered full-stack application that automates OPD insurance claim approval/re
 ## 🚀 Live Demo
 
 - **Frontend**: ([https://your-app.vercel.app](https://opd-adjudication-tool-46e0w0gw0.vercel.app/)) 
-- **Backend API**: ([opd-adjudication-tool-production.up.railway.app](https://railway.com/project/f4450599-1235-4ddc-a12e-526c15eaecbd/service/3b221f40-c0c4-478d-90c9-975dc8e0b136/settings/#networking)) 
-
+- **Backend API**: [https://opd-adjudication-tool-production.up.railway.app](https://opd-adjudication-tool-production.up.railway.app)
 ---
 
 ## 🛠 Tech Stack
