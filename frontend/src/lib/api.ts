@@ -3,7 +3,7 @@
  * All backend communication goes through here.
  */
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+const API_BASE = "https://opd-adjudication-tool-production.up.railway.app";
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
